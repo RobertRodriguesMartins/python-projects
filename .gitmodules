@@ -1,3 +1,6 @@
 [submodule "inventory_report"]
 	path = inventory_report
 	url = git@github.com:RobertRodriguesMartins/inventory_report.git
+[submodule "tech-news-crawler-python"]
+	path = tech-news-crawler-python
+	url = git@github.com:RobertRodriguesMartins/tech-news-crawler-python.git
